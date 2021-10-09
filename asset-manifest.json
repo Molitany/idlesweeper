@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/idlesweeper/static/css/main.a617e044.chunk.css",
+    "main.js": "/idlesweeper/static/js/main.d97144d2.chunk.js",
+    "main.js.map": "/idlesweeper/static/js/main.d97144d2.chunk.js.map",
+    "runtime-main.js": "/idlesweeper/static/js/runtime-main.d31d528f.js",
+    "runtime-main.js.map": "/idlesweeper/static/js/runtime-main.d31d528f.js.map",
+    "static/js/2.8a9e34e9.chunk.js": "/idlesweeper/static/js/2.8a9e34e9.chunk.js",
+    "static/js/2.8a9e34e9.chunk.js.map": "/idlesweeper/static/js/2.8a9e34e9.chunk.js.map",
+    "static/js/3.d44b4da2.chunk.js": "/idlesweeper/static/js/3.d44b4da2.chunk.js",
+    "static/js/3.d44b4da2.chunk.js.map": "/idlesweeper/static/js/3.d44b4da2.chunk.js.map",
+    "index.html": "/idlesweeper/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/idlesweeper/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8a9e34e9.chunk.js.LICENSE.txt": "/idlesweeper/static/js/2.8a9e34e9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/idlesweeper/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d31d528f.js",
+    "static/js/2.8a9e34e9.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d97144d2.chunk.js"
+  ]
+}
